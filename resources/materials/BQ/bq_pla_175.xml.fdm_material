@@ -6,8 +6,8 @@ Generic PLA 1.75mm profile. The data in this file may not be correct for your sp
     <metadata>
         <name>
             <brand>BQ</brand>
-            <material>BQ PLA</material>
-            <color>Generic</color>
+            <material>PLA</material>
+            <color>BQ</color>
         </name>
         <version>1</version>
         <color_code>#ffc924</color_code>
@@ -38,7 +38,10 @@ Generic PLA 1.75mm profile. The data in this file may not be correct for your sp
         </machine>
         <machine>
             <machine_identifier manufacturer="BQ" product="BQ Prusa i3 Hephestos XL"/>
-        </machine>    	
+        </machine>  
+        <machine>
+            <machine_identifier manufacturer="BQ" product="BQ Hephestos"/>
+        </machine>  		
        
     </settings>
 </fdmmaterial>
