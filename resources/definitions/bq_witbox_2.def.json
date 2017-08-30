@@ -12,7 +12,7 @@
         "platform": "bq_witbox_platform.stl",
         "platform_offset": [0, -145, -38],
 		"preferred_material": "*bq_pla_175*",
-        "preferred_quality": "*normal*",
+        "preferred_quality": "*Medium*",
         "has_materials": true,
         "has_variants": false,
         "has_machine_materials": false,
